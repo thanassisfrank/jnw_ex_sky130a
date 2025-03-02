@@ -6,11 +6,12 @@
 [![SIM](../../actions/workflows/sim.yaml/badge.svg)](../../actions/workflows/sim.yaml)
 
 # Who
-thanassis
+
+Thanassis Frank
 
 # Why
 
-<explain why you made this module>
+Skywater 130 nm project for AIC2025
 
 # How
 
