@@ -1,2 +1,2 @@
 *Automatic generated instance fron ../../tech/scripts/genxdut JNW_EX
-XDUT VDD_1V8 VSS PWRUP_1V8  JNW_EX
+XDUT IBPS_5U VSS IBNS_20U  JNW_EX
